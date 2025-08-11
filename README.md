@@ -30,4 +30,4 @@ Line 8. const char* password = "ENTER PASSWORD HERE"; //Local wifi password
 
 # Wiring
 
-![wiring](https://github.com/user-attachments/assets/043eae33-7db9-4c50-b93f-40aeecd28847)
+![wiring](https://github.com/user-attachments/assets/d6bb5ce0-72aa-4c37-b7e7-6d3047272573)
