@@ -1,4 +1,4 @@
-# ESP32-Antenna_Switch
+# ESP32-Antenna-Switch
 
 This is the code to control a 4 way relay, via a web interface, which will then control a 1x4 antenna switch.
 
