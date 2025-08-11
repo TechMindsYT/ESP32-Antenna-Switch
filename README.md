@@ -4,7 +4,7 @@ This is the code to control a 4 way relay, via a web interface, which will then 
 
 # Video Tutorial
 
-You may find the corresponding video tutorial ony my Tech Minds YouTube channel, here: https://www.youtube.com/embed/UB6Tlh_ZC4s
+You may find the corresponding video tutorial ony my Tech Minds YouTube channel, here: [https://www.youtube.com/embed/UB6Tlh_ZC4s](https://www.youtube.com/watch?v=UB6Tlh_ZC4s)
 
 # Required Hardware
 
