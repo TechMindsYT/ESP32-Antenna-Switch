@@ -16,6 +16,9 @@ https://ban.ggood.vip/1m4k9
 I used the following ESP32 Wroom module, but I guess you could use any:
 https://s.click.aliexpress.com/e/_oB9Pmex
 
+Relay Board:
+https://s.click.aliexpress.com/e/_omtcOEx
+
 # Configuration
 Before uploading the ESP32 code, make sure to edit the follow lines:
 
