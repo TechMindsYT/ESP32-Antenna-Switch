@@ -19,6 +19,12 @@ https://s.click.aliexpress.com/e/_oB9Pmex
 Relay Board:
 https://s.click.aliexpress.com/e/_omtcOEx
 
+# Uploading 
+
+I used the latest Aruino IDE application. Ensure you have the libraries used installed and the board type installed. Simply select the board type and compile/upload to ESP32.
+
+This may vary depending on which ESP32 you use. Some prior knowledge of compiling for ESP32 is recommended.
+
 # Configuration
 Before uploading the ESP32 code, make sure to edit the follow lines:
 
