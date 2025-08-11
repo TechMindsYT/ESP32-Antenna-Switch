@@ -15,3 +15,11 @@ https://ban.ggood.vip/1m4k9
 
 I used the following ESP32 Wroom module, but I guess you could use any:
 https://s.click.aliexpress.com/e/_oB9Pmex
+
+# Configuration
+Before uploading the ESP32 code, make sure to edit the follow lines:
+
+Line 11. const int relayPins[4] = {5, 18, 19, 0};  //confgiure ESP32 GPIO pins (Ant1, Ant2, Ant3, Ant4)
+
+Line 7. const char* ssid = "ENTER SSID HERE"; //Local wifi name
+Line 8. const char* password = "ENTER PASSWORD HERE"; //Local wifi password
