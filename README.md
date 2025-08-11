@@ -27,3 +27,7 @@ Line 11. const int relayPins[4] = {5, 18, 19, 0};  //confgiure ESP32 GPIO pins (
 Line 7. const char* ssid = "ENTER SSID HERE"; //Local wifi name
 
 Line 8. const char* password = "ENTER PASSWORD HERE"; //Local wifi password
+
+# Wiring
+
+![wiring](https://github.com/user-attachments/assets/043eae33-7db9-4c50-b93f-40aeecd28847)
