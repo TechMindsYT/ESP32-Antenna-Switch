@@ -22,4 +22,5 @@ Before uploading the ESP32 code, make sure to edit the follow lines:
 Line 11. const int relayPins[4] = {5, 18, 19, 0};  //confgiure ESP32 GPIO pins (Ant1, Ant2, Ant3, Ant4)
 
 Line 7. const char* ssid = "ENTER SSID HERE"; //Local wifi name
+
 Line 8. const char* password = "ENTER PASSWORD HERE"; //Local wifi password
